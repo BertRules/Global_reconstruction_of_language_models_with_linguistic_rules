@@ -1,8 +1,8 @@
-please find the input data here:
+Please find the input data here:
 
 www. ... .de
 
-download the input data, unzip the file 'input.zip' and place the four contained .json files into this folder '.../data/input/'.
+Download the input data, unzip the file 'input.zip' and place the four contained .json files into this folder '.../data/input/'.
 
 These input datasets have to be processed as described in the following in order to use the data for this code project.
 
