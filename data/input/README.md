@@ -15,5 +15,5 @@ Finally, it is necessary to change the name of the four .json files. Here, the s
 ---------
 
 The original datasets from yelp and amazon containing the reviews are:
-- the yelp dataset challenge (cf. www.yelp.com/dataset; downloaded January 2021)
+- Yelp dataset challenge (cf. www.yelp.com/dataset; downloaded January 2021)
 - Amazon as provided by Ni, J., Li, J., & McAuley, J. (2019, November). Justifying recommendations using distantly-labeled reviews and fine-grained aspects. In Proceedings of the 2019 conference on empirical methods in natural language processing and the 9th international joint conference on natural language processing (EMNLP-IJCNLP) (pp. 188-197). cf. https://cseweb.ucsd.edu/~jmcauley/datasets.html
