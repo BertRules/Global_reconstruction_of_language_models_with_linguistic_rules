@@ -1,6 +1,6 @@
 Please find the input data here:
 
-https://myfiles.uni-regensburg.de/filr/public-link/file-download/0447879f823b007001832c724b581983/89000/8180014411224466709/input.zip
+(after final publication, the link to the data will be provided here)
 
 Download the input data, unzip the file 'input.zip' and place the four contained .json files into this folder '.../data/input/'.
 
