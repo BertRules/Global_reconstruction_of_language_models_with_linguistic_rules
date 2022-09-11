@@ -1,4 +1,6 @@
-﻿00_rule_extraction_controller.py
+Note: This project is based on the code from the paper Dai, H., & Song, Y. (2019). Neural aspect and opinion term extraction with mined rules as weak supervision (cf. https://aclanthology.org/P19-1520/), which can be found here: https://github.com/HKUST-KnowComp/RINANTE
+-------
+00_rule_extraction_controller.py
 	generates the rules that reconstruct BERT's predictions
 
 00_eval.py
