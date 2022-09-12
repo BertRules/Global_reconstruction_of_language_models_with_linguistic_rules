@@ -1,6 +1,6 @@
 Please find the input data here:
 
-(after final publication, the link to the data will be provided here)
+https://drive.google.com/file/d/1Qwlxu6krYH3cMyAHR4dOAyQr33Mi4l8V/view
 
 Download the input data, unzip the file 'input.zip' and place the four contained .json files into this folder '.../data/input/'.
 
